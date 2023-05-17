@@ -1,0 +1,23 @@
+Business Entity 
+
+user's --> creates --> Ad Details --> Post
+
+USER
+email address
+password
+phone number 
+name
+
+LOGIN
+email_id
+password
+
+name 
+category
+contact_no
+state
+
+title
+image
+place 
+price

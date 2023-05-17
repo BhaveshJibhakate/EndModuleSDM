@@ -1,0 +1,30 @@
+Title :SRS for Online Project Management
+
+Purpose: purpose of this tool is to help in managing projects within an organisation. This system will help employess,project managers,delivery managers and stakeholders to update about executions of projects going on in the organization .All beneficiaries will be able to manage resources, time effectively
+
+
+
+1. User Registration 
+ The system shall provide a user registration form that includes fields for name, email address, and password.
+
+
+2. User Authentication
+ The system shall provide a login form where registered users can enter their email and password.
+
+3. Project Creation
+3The system shall provide a form for creating new projects, allowing users to enter a project name, description, start date, and end date.
+
+
+4. Task Creation
+ The system shall allow users to create tasks within projects, providing fields for a task title, description, assigned user(s), start date, end date, and priority.
+
+
+5. File Upload 
+ The system shall enable users to upload files and associate them with projects or tasks.
+
+
+6. Team Communication
+The system shall provide communication channels (such as chat or comments) for project members to interact and collaborate.
+
+
+
